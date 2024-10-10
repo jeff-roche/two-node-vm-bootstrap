@@ -1,2 +1,2 @@
-# two-node-vm-bootstrap
-Bootstrapping an Openshift 2-node cluster from SNO in VMs 
+# Two Node Openshift VM Bootstrapper
+Bootstrapping an Openshift 2-node cluster starting from SNO in VMs 
